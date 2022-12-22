@@ -1,0 +1,3 @@
+//create table DeluxRoom(RoomNo int,Name varchar(100),Age varchar(3),DOB varchar(100),Contact varchar(25),PlaceOfOrigin varchar(50),RoomType varchar(70));
+//create table StandardRoom(RoomNo int,Name varchar(100),Age varchar(3),DOB varchar(100),Contact varchar(25),PlaceOfOrigin varchar(50),RoomType varchar(70));
+//create table SuitRoom(RoomNo int,Name varchar(100),Age varchar(3),DOB varchar(100),Contact varchar(25),PlaceOfOrigin varchar(50),RoomType varchar(70));
